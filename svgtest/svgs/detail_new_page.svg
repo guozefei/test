@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>新窗口</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="协作icons" sketch:type="MSArtboardGroup" transform="translate(-405.000000, -679.000000)" fill="#ADB8C5">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(342.000000, 681.000000)">
+                <path d="M75.2805714,4 L66.7194286,4 C65.7688571,4 65,4.76971429 65,5.71942857 L65,14.2805714 C65,15.2311429 65.7697143,16 66.7194286,16 L75.2805714,16 C76.2311429,16 77,15.2302857 77,14.2805714 L77,5.71942857 C77,4.76885714 76.2302857,4 75.2805714,4 L75.2805714,4 Z M75,13.9952 C75,13.9984 74.9984,14 74.9952,14 L67.0048,14 C67.0016,14 67,13.9984 67,13.9952 L67,6.0048 C67,6.0016 67.0016,6 67.0048,6 L74.9952,6 C74.9984,6 75,6.0016 75,6.0048 L75,13.9952 Z M79.281,0 L70.719,0 C69.769,0 69,0.77 69,1.719 L69,3 L71,3 L71,2.005 C71,2.002 71.002,2 71.005,2 L78.995,2 C78.998,2 79,2.002 79,2.005 L79,9.995 C79,9.998 78.998,10 78.995,10 L78,10 L78,12 L79.281,12 C80.231,12 81,11.23 81,10.281 L81,1.719 C81,0.769 80.23,0 79.281,0 Z" id="Fill-1-Copy-6" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

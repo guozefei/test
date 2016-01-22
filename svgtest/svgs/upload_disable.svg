@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>上传 disable</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="协作icons" sketch:type="MSArtboardGroup" transform="translate(-70.000000, -238.000000)" fill="#D5D5D5">
+            <g id="文件区-icon-+-文件区" sketch:type="MSLayerGroup" transform="translate(41.000000, 170.000000)">
+                <g id="文件区-icon" transform="translate(1.000000, 30.000000)" sketch:type="MSShapeGroup">
+                    <g id="新建上传导入-4">
+                        <path d="M35.707,45.707 L37,44.414 L37,50 C37,50.552 37.447,51 38,51 C38.553,51 39,50.552 39,50 L39,44.414 L40.293,45.707 C40.488,45.902 40.744,46 41,46 C41.256,46 41.512,45.902 41.707,45.707 C42.098,45.316 42.098,44.684 41.707,44.293 L38.707,41.293 C38.316,40.902 37.684,40.902 37.293,41.293 L34.293,44.293 C33.902,44.684 33.902,45.316 34.293,45.707 C34.488,45.902 34.744,46 35,46 C35.256,46 35.512,45.902 35.707,45.707 Z M44,40 C43.447,40 42.963,40.442 42.963,40.995 C42.963,41.547 43.374,41.989 43.926,41.989 C43.951,42 44.001,42.051 44,42 L44,54 L32,54 L31.989,42.074 C32.001,42.047 32.047,42.001 32,42 C32.553,42 33,41.552 33,41 C33,40.448 32.553,40 32,40 C30.972,40 30,40.972 30,42 L30,54.125 C30,55.159 30.841,56 31.875,56 L44.125,56 C45.159,56 46,55.159 46,54.125 L46,42 C46,40.972 45.028,40 44,40 Z" id="Fill-9"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

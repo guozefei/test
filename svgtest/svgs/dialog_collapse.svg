@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>上传折叠</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="协作icons" sketch:type="MSArtboardGroup" transform="translate(-42.000000, -263.000000)">
+            <g id="文件区-icon-+-文件区" sketch:type="MSLayerGroup" transform="translate(22.000000, 170.000000)" fill="#D8D8D8">
+                <g id="文件区-icon" transform="translate(0.000000, 30.000000)" sketch:type="MSShapeGroup">
+                    <g id="新建上传导入-4">
+                        <path d="M33.2555088,67.7118404 C33.647124,67.3187018 34.2753038,67.3148242 34.6604168,67.7050329 L34.804174,67.8506922 C35.1884681,68.2400711 35.1772119,68.8755963 34.7932743,69.2560644 L28.694566,75.2996607 C28.3042522,75.6864474 27.6660971,75.6763444 27.2834024,75.2913749 L21.2044378,69.1762764 C20.8153876,68.7849136 20.8204633,68.1564003 21.2201402,67.7682126 L21.2909495,67.6994388 C21.6886719,67.3131494 22.3324257,67.3225861 22.7201718,67.7118404 L27.9878403,73 L33.2555088,67.7118404 Z" id="Imported-Layers-Copy-13"></path>
+                    </g>
+                </g>
+            </g>
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(40.000000, 40.000000)"></g>
+        </g>
+    </g>
+</svg>

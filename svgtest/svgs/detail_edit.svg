@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>编辑</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="协作icons" sketch:type="MSArtboardGroup" transform="translate(-250.000000, -198.000000)">
+            <g id="文件区-icon-+-文件区" sketch:type="MSLayerGroup" transform="translate(22.000000, 170.000000)">
+                <g id="文件区-icon" transform="translate(0.000000, 30.000000)"></g>
+            </g>
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(40.000000, 40.000000)"></g>
+            <path d="M266,216 L254,216 C252.897,216 252,215.103 252,214 L252,202 C252,200.897 252.897,200 254,200 L261.677,200 C262.23,200 262.677,200.448 262.677,201 C262.677,201.552 262.23,202 261.677,202 L254,202 L254,214 L266,214 L266,206.25 C266,205.698 266.448,205.251 267,205.251 C267.552,205.251 268,205.698 268,206.25 L268,214 C268,215.103 267.103,216 266,216 Z M257.896,211.459 C257.646,211.459 257.396,211.366 257.203,211.179 C256.805,210.796 256.792,210.163 257.175,209.765 L266.279,200.307 C266.663,199.909 267.296,199.897 267.693,200.279 C268.091,200.663 268.104,201.295 267.721,201.693 L258.617,211.152 C258.42,211.356 258.158,211.459 257.896,211.459 Z" id="编辑" fill="#338BF1" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

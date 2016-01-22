@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>其他 hover</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="协作icons" sketch:type="MSArtboardGroup" transform="translate(-374.000000, -218.000000)">
+            <g id="文件区-icon-+-文件区" sketch:type="MSLayerGroup" transform="translate(22.000000, 170.000000)">
+                <g id="文件区-icon" transform="translate(0.000000, 30.000000)"></g>
+            </g>
+            <path d="M382,234 C386.418278,234 390,230.418278 390,226 C390,221.581722 386.418278,218 382,218 C377.581722,218 374,221.581722 374,226 C374,230.418278 377.581722,234 382,234 L382,234 Z M382,233 C378.134007,233 375,229.865993 375,226 C375,222.134007 378.134007,219 382,219 C385.865993,219 389,222.134007 389,226 C389,229.865993 385.865993,233 382,233 L382,233 Z M382.058391,228.558572 C381.897775,228.581101 381.728901,228.530288 381.605844,228.406331 L378.246457,225.022359 C378.039143,224.813527 378.040372,224.476173 378.249204,224.268859 C378.458036,224.061544 378.79539,224.062774 379.002705,224.271606 L382.058391,227.349655 L385.114078,224.271606 C385.321393,224.062774 385.658746,224.061544 385.867578,224.268859 C386.07641,224.476173 386.07764,224.813527 385.870325,225.022359 L382.510938,228.406331 C382.387881,228.530288 382.219008,228.581101 382.058391,228.558572 Z" id="Shape-Copy-7" fill="#5B688C" sketch:type="MSShapeGroup"></path>
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(40.000000, 40.000000)"></g>
+        </g>
+    </g>
+</svg>

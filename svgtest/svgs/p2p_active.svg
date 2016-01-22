@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>notice_active</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="协作icons" sketch:type="MSArtboardGroup" transform="translate(-245.000000, -46.000000)">
+            <g id="消息-copy" sketch:type="MSLayerGroup" transform="translate(245.748324, 46.000000)">
+                <path d="M1.25167581,6 C0.701675807,6 0.251675807,6.44400028 0.251675807,7 L0.251675807,15 C0.251675807,15.5012077 0.702675807,15.9551632 1.25167581,16 L2.25167581,16 L2.25167581,17 L2.25167581,17.5279152 C2.25167581,17.8086635 2.43035527,17.9149759 2.66881295,17.7531224 L5.25167581,16 L13.2516758,16 C13.8016758,15.9551632 14.2516758,15.5111629 14.2516758,15 L14.2516758,7 C14.2516758,6.45395544 13.8006758,6 13.2516758,6 L1.25167581,6 Z M3.25167581,9 L11.2516758,9 L11.2516758,10 L3.25167581,10 L3.25167581,9 Z M3.25167581,12 L8.25167581,12 L8.25167581,13 L3.25167581,13 L3.25167581,12 Z" id="Imported-Layers" fill="#4C9CFA" sketch:type="MSShapeGroup"></path>
+                <path d="M15.2516758,13 L16.2516758,13 C16.8016758,13 17.2516758,12.554 17.2516758,12 L17.2516758,4 C17.2516758,3.456 16.8006758,3 16.2516758,3 L4.25167581,3 C3.70167581,3 3.25167581,3.446 3.25167581,4 L3.25167581,5 L13.2516758,5 C14.3486758,5 15.2516758,5.899 15.2516758,7 L15.2516758,13" id="Imported-Layers" fill="#A6CEFD" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

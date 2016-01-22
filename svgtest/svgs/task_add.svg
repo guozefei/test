@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>添加任务</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" sketch:type="MSPage">
+        <g id="icon" sketch:type="MSArtboardGroup" transform="translate(-33.000000, -265.000000)">
+            <path d="M40,273 L36,273 L36,272 L40,272 L40,269.285714 L40,268 L41,268 L41,269.285714 L41,272 L45,272 L45,273 L41,273 L41,277 L40,277 L40,273 Z M40.5,280 C44.6421356,280 48,276.642136 48,272.5 C48,268.357864 44.6421356,265 40.5,265 C36.3578644,265 33,268.357864 33,272.5 C33,276.642136 36.3578644,280 40.5,280 Z" id="Oval-138" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

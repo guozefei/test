@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>分享 hover</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="协作icons" sketch:type="MSArtboardGroup" transform="translate(-130.000000, -218.000000)">
+            <g id="文件区-icon-+-文件区" sketch:type="MSLayerGroup" transform="translate(41.000000, 170.000000)">
+                <g id="文件区-icon" transform="translate(1.000000, 30.000000)" sketch:type="MSShapeGroup">
+                    <g id="分享-hover-copy-3" transform="translate(91.000000, 20.000000)">
+                        <rect id="Rectangle-128" fill="#398DEE" x="2" y="2" width="12" height="14" rx="1"></rect>
+                        <rect id="Rectangle-128" fill="#FFFFFF" x="1" y="1" width="12" height="14" rx="1"></rect>
+                        <rect id="Rectangle-128" stroke-opacity="0.05" stroke="#000000" fill="#398DEE" x="0" y="0" width="12" height="14" rx="1"></rect>
+                        <circle id="Oval-8" fill="#FFFFFF" cx="7.5" cy="3.5" r="1.5"></circle>
+                        <circle id="Oval-6" fill="#FFFFFF" cx="2.5" cy="6.5" r="1.5"></circle>
+                        <circle id="Oval-7" fill="#FFFFFF" cx="7.5" cy="9.5" r="1.5"></circle>
+                        <path d="M3,6 L8,3" id="Line-4" stroke="#FFFFFF" stroke-linecap="square"></path>
+                        <path d="M3,7 L8,10" id="Line-5" stroke="#FFFFFF" stroke-linecap="square"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

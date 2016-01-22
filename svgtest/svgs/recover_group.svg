@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>还原</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="协作icons" sketch:type="MSArtboardGroup" transform="translate(-130.000000, -198.000000)">
+            <g id="文件区-icon-+-文件区" sketch:type="MSLayerGroup" transform="translate(34.000000, 170.000000)">
+                <g id="文件区-icon" transform="translate(0.000000, 30.000000)">
+                    <g id="新建上传导入-4" transform="translate(8.000000, 0.000000)" fill="#398DEE" sketch:type="MSShapeGroup">
+                        <path d="M90,8 L88.4960938,8 L91,11.0518799 L93.5050049,8 L92,8 C91.9827924,4.597 94.6528808,2 98,2 C101.268083,2 103.982555,4.692 104,8 C103.982555,11.309 101.268083,14.001 98,14 C97.3734053,14.001 96.9214977,14.448 97,15 C96.9214977,15.553 97.3734053,16 98,16 C102.379695,16 106,12.412 106,8 C106,3.589 102.379695,0 98,0 C93.5412686,0 89.9663561,3.495 90,8 Z" id="还原群"></path>
+                    </g>
+                    <g id="Group"></g>
+                </g>
+            </g>
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(40.000000, 40.000000)"></g>
+        </g>
+    </g>
+</svg>

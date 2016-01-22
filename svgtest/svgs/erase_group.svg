@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>删除群</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="协作icons" sketch:type="MSArtboardGroup" transform="translate(-160.000000, -198.000000)">
+            <g id="文件区-icon-+-文件区" sketch:type="MSLayerGroup" transform="translate(34.000000, 170.000000)">
+                <g id="文件区-icon" transform="translate(0.000000, 30.000000)">
+                    <g id="新建上传导入-4" transform="translate(8.000000, 0.000000)" fill="#DD5656" sketch:type="MSShapeGroup">
+                        <path d="M126.952138,5.53685699 L122.704829,1.28954776 C122.317015,0.901734064 121.685808,0.903692016 121.295284,1.29421631 C120.902037,1.68746326 120.902669,2.3158154 121.290615,2.70376133 L125.537924,6.95107056 L126.952138,5.53685699 L126.952138,5.53685699 Z M129.780565,8.36528412 L134.027874,12.6125933 C134.41582,13.0005393 134.416453,13.6288914 134.023206,14.0221384 C133.632681,14.4126627 133.001474,14.4146206 132.613661,14.0268069 L128.366351,9.77949768 L129.780565,8.36528412 L129.780565,8.36528412 Z M134.027874,2.70376133 C134.41582,2.3158154 134.416453,1.68746326 134.023206,1.29421631 C133.632681,0.903692016 133.001474,0.901734064 132.613661,1.28954776 L121.290615,12.6125933 C120.902669,13.0005393 120.902037,13.6288914 121.295284,14.0221384 C121.685808,14.4126627 122.317015,14.4146206 122.704829,14.0268069 L134.027874,2.70376133 Z" id="Rectangle-1164-Copy"></path>
+                    </g>
+                    <g id="Group"></g>
+                </g>
+            </g>
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(40.000000, 40.000000)"></g>
+        </g>
+    </g>
+</svg>

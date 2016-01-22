@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>其他</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="协作icons" sketch:type="MSArtboardGroup" transform="translate(-374.000000, -198.000000)">
+            <g id="文件区-icon-+-文件区" sketch:type="MSLayerGroup" transform="translate(22.000000, 170.000000)">
+                <g id="文件区-icon" transform="translate(0.000000, 30.000000)"></g>
+            </g>
+            <path d="M382,214 C386.418278,214 390,210.418278 390,206 C390,201.581722 386.418278,198 382,198 C377.581722,198 374,201.581722 374,206 C374,210.418278 377.581722,214 382,214 L382,214 Z M382,213 C378.134007,213 375,209.865993 375,206 C375,202.134007 378.134007,199 382,199 C385.865993,199 389,202.134007 389,206 C389,209.865993 385.865993,213 382,213 L382,213 Z M382.058391,208.558572 C381.897775,208.581101 381.728901,208.530288 381.605844,208.406331 L378.246457,205.022359 C378.039143,204.813527 378.040372,204.476173 378.249204,204.268859 C378.458036,204.061544 378.79539,204.062774 379.002705,204.271606 L382.058391,207.349655 L385.114078,204.271606 C385.321393,204.062774 385.658746,204.061544 385.867578,204.268859 C386.07641,204.476173 386.07764,204.813527 385.870325,205.022359 L382.510938,208.406331 C382.387881,208.530288 382.219008,208.581101 382.058391,208.558572 Z" id="Shape-Copy-3" fill="#9199AF" sketch:type="MSShapeGroup"></path>
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(40.000000, 40.000000)"></g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>上传成功</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="协作icons" sketch:type="MSArtboardGroup" transform="translate(-133.000000, -284.000000)">
+            <g id="文件区-icon-+-文件区" sketch:type="MSLayerGroup" transform="translate(22.000000, 170.000000)">
+                <g id="文件区-icon" transform="translate(0.000000, 30.000000)">
+                    <g id="新建上传导入-4" fill="#42BE54" sketch:type="MSShapeGroup">
+                        <path d="M116.267767,93.9246212 L116.707107,94.363961 L122.363961,88.7071068 L121.656854,88 L116.681981,92.9748737 L114.12132,90.4142136 L113.414214,91.1213203 L116.242641,93.9497475 L116.267767,93.9246212 Z M118,98 C121.865993,98 125,94.8659932 125,91 C125,87.1340068 121.865993,84 118,84 C114.134007,84 111,87.1340068 111,91 C111,94.8659932 114.134007,98 118,98 Z" id="Oval-12-Copy-10"></path>
+                    </g>
+                    <g id="Group" transform="translate(2.000000, 1.000000)"></g>
+                </g>
+            </g>
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(40.000000, 40.000000)"></g>
+        </g>
+    </g>
+</svg>

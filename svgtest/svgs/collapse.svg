@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>菜单折叠</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="协作icons" sketch:type="MSArtboardGroup" transform="translate(-120.000000, -110.000000)">
+            <g id="Group-+-创建-加入" sketch:type="MSLayerGroup" transform="translate(40.748324, 42.000000)">
+                <g id="Group" transform="translate(45.000000, 0.000000)">
+                    <g id="Group-4">
+                        <g></g>
+                    </g>
+                </g>
+            </g>
+            <circle id="Oval-12" fill="#C2CDD9" sketch:type="MSShapeGroup" cx="127" cy="117" r="7"></circle>
+            <path d="M125.036,113.707 L128.364,117.036 L125,120.4 L125.707,121.107 L129.778,117.036 L125.743,113 L125.036,113.707" id="Imported-Layers" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

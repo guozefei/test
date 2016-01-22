@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="26px" viewBox="0 0 24 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>music</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path id="path-2" d="M0,1.99700466 C0,0.89408944 0.892622799,0 1.99508929,0 L18,0 L24,6 L24,24.0092049 C24,25.1086907 23.1029738,26 21.9950534,26 L2.00494659,26 C0.897645164,26 0,25.1050211 0,24.0029953 L0,1.99700466 Z"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="music" sketch:type="MSLayerGroup">
+            <g id="Rectangle-377">
+                <use fill="#F2956E" sketch:type="MSShapeGroup" xlink:href="#path-2"></use>
+            </g>
+            <path d="M1,24.0029953 C1,24.5522223 1.44942024,25 2.00494659,25 L21.9950534,25 C22.5520073,25 23,24.5550745 23,24.0092049 L23.0223278,6.43750628 L17.5671387,1 L1.99271477,1 C1.44458458,1 1,1.44563565 1,1.99700466 L1,24.0029953 Z M2,0 L18,0 L24,6 L24,24 C24,25.1086907 23.1029738,26 22,26 L2,26 C0.897645164,26 0,25.1050211 0,24 L0,2 C0,0.89408944 0.891560412,0 2,0 Z" id="Shape" fill-opacity="0.05" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M19,3 L24,6.04736328 L24,11.0029907 L19,5 L19,3 Z" id="Rectangle-1374" fill-opacity="0.1" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M18,0 L24,6 L19.9979131,6 C18.8944962,6 18,5.10173938 18,4.00208688 L18,0 Z" id="Rectangle-378" fill="#FDB293" sketch:type="MSShapeGroup"></path>
+            <path d="M17.12024,7.49649048 L7.82168,9.0571596 L7.82168,15.8281905 C6.9163,15.8919478 6.2,16.6027037 6.2,17.4803375 C6.2,18.3989978 6.983,19.1441272 7.94928,19.1441272 C8.87438,19.1441272 9.62374,18.4594287 9.68696,17.5951008 L9.69972,17.5951008 L9.69798,17.493089 C9.69798,17.4886537 9.69914,17.4847728 9.69914,17.4803375 C9.69914,17.474239 9.6974,17.4686949 9.6974,17.4625964 L9.68638,10.7115243 L15.38372,9.83333607 L15.38372,13.6183052 C15.37096,13.6183052 15.35994,13.6149787 15.34718,13.6149787 C14.3809,13.6149787 13.59732,14.3595537 13.59732,15.2787684 C13.59732,16.1979831 14.3809,16.9425581 15.34718,16.9425581 C16.28272,16.9425581 17.0402,16.2428905 17.08776,15.3647022 L17.12024,15.3647022 L17.12024,7.49649048" id="Imported-Layers" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

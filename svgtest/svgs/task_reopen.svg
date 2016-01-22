@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="12px" height="12px" viewBox="0 0 14 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>重新打开</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" sketch:type="MSPage">
+        <g id="icon" sketch:type="MSArtboardGroup" transform="translate(-407.000000, -244.000000)">
+            <path d="M418.917042,251 C418.440963,253.837713 415.972996,256 413,256 C409.686292,256 407,253.313708 407,250 C407,246.686292 409.686292,244 413,244 C413.552285,244 414,244.447715 414,245 C414,245.552285 413.552285,246 413,246 C410.790861,246 409,247.790861 409,250 C409,252.209139 410.790861,254 413,254 C414.863839,254 416.42994,252.725227 416.873983,251 L414.551636,251 L417.775818,247.17334 L421,251 L418.917042,251 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

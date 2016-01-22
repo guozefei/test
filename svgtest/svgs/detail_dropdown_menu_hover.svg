@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>更多hover</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="协作icons" sketch:type="MSArtboardGroup" transform="translate(-470.000000, -709.000000)" fill="#398DEE">
+            <g id="Group-Copy-5" sketch:type="MSLayerGroup" transform="translate(407.000000, 711.000000)">
+                <path d="M73.4930618,10.2607511 C73.2076728,10.326319 72.8958727,10.2511457 72.6690334,10.033044 L70.0806048,7.54431943 C69.7232174,7.20069826 69.7120577,6.63241854 70.0556788,6.27503114 C70.3993,5.91764373 70.9675797,5.90648399 71.3249671,6.25010515 L73.3196896,8.1679927 L75.2964436,6.19984628 C75.6477795,5.85004018 76.2161675,5.85128037 76.5659736,6.20261633 C76.9157797,6.55395228 76.9145395,7.12234022 76.5632035,7.47214632 L74.0186034,10.0056662 C73.8709732,10.1526536 73.6850191,10.2376584 73.4930618,10.2607511 Z M73,14 L73,14 C76.3137085,14 79,11.3137085 79,8 C79,4.6862915 76.3137085,2 73,2 C69.6862915,2 67,4.6862915 67,8 C67,11.3137085 69.6862915,14 73,14 L73,14 Z M65,8 C65,3.581722 68.581722,0 73,0 C77.418278,0 81,3.581722 81,8 C81,12.418278 77.418278,16 73,16 C68.581722,16 65,12.418278 65,8 Z" id="Shape-Copy-8" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>上传关闭 </title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="协作icons" sketch:type="MSArtboardGroup" transform="translate(-72.000000, -263.000000)">
+            <g id="文件区-icon-+-文件区" sketch:type="MSLayerGroup" transform="translate(22.000000, 170.000000)" fill="#D8D8D8">
+                <g id="文件区-icon" transform="translate(0.000000, 30.000000)" sketch:type="MSShapeGroup">
+                    <g id="新建上传导入-4">
+                        <path d="M59.4241179,71.0104076 L63.3079612,67.1265644 C63.7029254,66.7316002 63.7037989,66.0976046 63.3133011,65.7071068 C62.9200808,65.3138865 62.2872905,65.3189997 61.8938435,65.7124467 L58.0100002,69.5962899 L54.126157,65.7124467 C53.7311927,65.3174825 53.0971972,65.316609 52.7066994,65.7071068 C52.3134791,66.1003271 52.3185923,66.7331174 52.7120393,67.1265644 L56.5958825,71.0104076 L52.7120393,74.8942509 C52.317075,75.2892151 52.3162015,75.9232107 52.7066994,76.3137085 C53.0999197,76.7069288 53.73271,76.7018156 54.126157,76.3083686 L58.0100002,72.4245253 L61.8938435,76.3083686 C62.2888077,76.7033328 62.9228033,76.7042063 63.3133011,76.3137085 C63.7065214,75.9204882 63.7014082,75.2876979 63.3079612,74.8942509 L59.4241179,71.0104076 Z" id="Rectangle-1107-Copy-3"></path>
+                    </g>
+                </g>
+            </g>
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(40.000000, 40.000000)"></g>
+        </g>
+    </g>
+</svg>

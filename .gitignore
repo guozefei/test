@@ -1,0 +1,10 @@
+node_modules/*
+src/bower_components/*
+target/*
+temp/*
+**/.idea/*
+images/*
+.idea/*
+npm-debug.log
+.code_swarm/log.xml
+.code_swarm/project.config

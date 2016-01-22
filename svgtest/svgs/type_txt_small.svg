@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>text</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-4" sketch:type="MSArtboardGroup" transform="translate(-535.000000, -1282.000000)">
+            <g id="pic-copy-2" sketch:type="MSLayerGroup" transform="translate(24.000000, 1282.000000)">
+                <g id="text" transform="translate(511.000000, 0.000000)" sketch:type="MSShapeGroup">
+                    <rect id="Rectangle-873-Copy" fill="#9BB1C5" x="0" y="0" width="32" height="32" rx="4"></rect>
+                    <path d="M1,4.0042577 L1,4.0042577 L1,27.9957423 C1,29.6572516 2.34361515,31 4.0042577,31 L27.9957423,31 C29.6572516,31 31,29.6563848 31,27.9957423 L31,4.0042577 C31,2.34274837 29.6563848,1 27.9957423,1 L4.0042577,1 C2.34274837,1 1,2.34361515 1,4.0042577 L1,4.0042577 Z M0,4.0042577 C0,1.79276724 1.78902751,0 4.0042577,0 L27.9957423,0 C30.2072328,0 32,1.78902751 32,4.0042577 L32,27.9957423 C32,30.2072328 30.2109725,32 27.9957423,32 L4.0042577,32 C1.79276724,32 0,30.2109725 0,27.9957423 L0,4.0042577 L0,4.0042577 Z" id="Shape-Copy-9" fill-opacity="0.05" fill="#000000"></path>
+                    <path d="M8,11.5885714 L10.4615385,11.5885714 C10.4615385,11.5885714 10.4923077,10.9230769 11.6923077,10.4615385 C12.8923077,10 14.1538462,10.6408791 14.1538462,10.6408791 L14.1538462,21.1920879 L11.6228571,21.1920879 L11.6228571,24 L20.4052747,24 L20.4052747,21.1920879 L17.8461538,21.1920879 L17.8461538,10.6408791 C17.8461538,10.6408791 18.8720879,9.84615385 20.2320879,10.4615385 C21.5912088,11.0769231 21.5912088,11.5885714 21.5912088,11.5885714 L24,11.5885714 L24,8 L8,8 L8,11.5885714 Z" id="Imported-Layers" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

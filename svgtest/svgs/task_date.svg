@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
+    <title>日历</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="icon" sketch:type="MSArtboardGroup" transform="translate(-267.000000, -19.000000)">
+            <g id="创建清单-copy-5-+-＋-copy" sketch:type="MSLayerGroup" transform="translate(126.000000, 19.000000)">
+                <g id="＋-copy">
+                    <g id="Imported-Layers"></g>
+                </g>
+            </g>
+            <path d="M279.732,20 L278,20 L278,19.568 C278,19.254 277.746,19 277.432,19 L276.568,19 C276.254,19 276,19.254 276,19.568 L276,20 L272,20 L272,19.568 C272,19.254 271.746,19 271.432,19 L270.568,19 C270.254,19 270,19.254 270,19.568 L270,20 L268.268,20 C267.567,20 267,20.567 267,21.268 L267,31.732 C267,32.433 267.567,33 268.268,33 L279.732,33 C280.432,33 281,32.433 281,31.732 L281,21.268 C281,20.567 280.432,20 279.732,20 L279.732,20 Z M269,26 L279,26 L279,31 L269,31 L269,26 Z M279,24 L269,24 L269,22 L270,22 L270,22.432 C270,22.746 270.254,23 270.568,23 L271.432,23 C271.746,23 272,22.746 272,22.432 L272,22 L276,22 L276,22.432 C276,22.746 276.254,23 276.568,23 L277.432,23 C277.746,23 278,22.746 278,22.432 L278,22 L279,22 L279,24 L279,24 Z" id="Imported-Layers" fill="#D6D6D6" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
