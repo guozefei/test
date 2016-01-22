@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Example - example-input-directive-production</title>
+
+
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.0-rc.1/angular.min.js"></script>
+
+
+
+</head>
+<body ng-app="inputExample">
+<script>
+    angular.module('inputExample', [])
+            .controller('ExampleController', ['$scope', function($scope) {
+                $scope.user = {name: 'guest', last: 'visitor'};
+            }]);
+</script>
+<div ng-controller="ExampleController">
+    <p>只能把input放在form里面才能使用$valid</p>
+    <input name="inputtest1" type="text" ng-model="title1" required>
+    <tt>title={{title1}}</tt><br/>
+    <tt>inputtest1.$valid={{inputtest1.$valid}}</tt>
+    <form name="test">
+        <input name="inputtest" type="text" ng-model="title" required>
+        <tt>title={{title}}</tt><br/>
+        <tt>inputtest.$valid={{test.inputtest.$valid}}</tt>
+    </form>
+    <form name="myForm">
+        <label>
+            User name:
+            <input type="text" name="userName" ng-model="user.name" required>
+        </label>
+        <div role="alert">
+      <span class="error" ng-show="myForm.userName.$error.required">
+       Required!</span>
+        </div>
+        <label>
+            Last name:
+            <input type="text" name="lastName" ng-model="user.last"
+                   ng-minlength="3" ng-maxlength="10">
+        </label>
+        <div role="alert">
+      <span class="error" ng-show="myForm.lastName.$error.minlength">
+        Too short!</span>
+      <span class="error" ng-show="myForm.lastName.$error.maxlength">
+        Too long!</span>
+        </div>
+    </form>
+    <hr>
+    <tt>user = {{user}}</tt><br/>
+    <tt>myForm.userName.$valid = {{myForm.userName.$valid}}</tt><br/>
+    <tt>myForm.userName.$error = {{myForm.userName.$error}}</tt><br/>
+    <tt>myForm.lastName.$valid = {{myForm.lastName.$valid}}</tt><br/>
+    <tt>myForm.lastName.$error = {{myForm.lastName.$error}}</tt><br/>
+    <tt>myForm.$valid = {{myForm.$valid}}</tt><br/>
+    <tt>myForm.$error.required = {{!!myForm.$error.required}}</tt><br/>
+    <tt>myForm.$error.minlength = {{!!myForm.$error.minlength}}</tt><br/>
+    <tt>myForm.$error.maxlength = {{!!myForm.$error.maxlength}}</tt><br/>
+</div>
+</body>
+</html>
+
+<!-- 
+Copyright 2016 Google Inc. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at http://angular.io/license
+-->
